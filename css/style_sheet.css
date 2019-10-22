@@ -1,0 +1,15 @@
+.big {
+  font-weight: bolder;
+}
+.slanted {
+  font-style: italic;
+}
+.difcolor {
+  color: #ffcc09;
+}
+body {
+  background: #ccff99;
+}
+p {
+  font: monospace;
+}
